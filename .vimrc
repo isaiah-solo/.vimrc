@@ -2,7 +2,6 @@ colo delek
 syntax on
 
 set ruler
-set relativenumber
 set nocompatible
 filetype off
 
